@@ -1,0 +1,13 @@
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\IceCreamStoreDatabase.exe.config
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\IceCreamStoreDatabase.exe
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\IceCreamStoreDatabase.pdb
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\obj\Debug\IceCreamStoreDatabase.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\obj\Debug\IceCreamStoreDatabase.Properties.Resources.resources
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\obj\Debug\IceCreamStoreDatabase.csproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\obj\Debug\IceCreamStoreDatabase.exe
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\obj\Debug\IceCreamStoreDatabase.pdb
+C:\Users\gabri\Desktop\Mokslai\3 semestras\TOP\IceCreamStoreDatabase\IceCreamStoreDatabase\obj\Debug\IceCreamStoreDatabase.IceCreamDatabaseForm.resources
